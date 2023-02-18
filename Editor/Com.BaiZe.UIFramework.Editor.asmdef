@@ -1,0 +1,19 @@
+{
+    "name": "Com.BaiZe.UIFramework.Editor",
+    "rootNamespace": "",
+    "references": [
+        "com.baize.uiframework",
+        "com.baize.sharp-toolset",
+        "Com.BaiZe.Game-Base.Editor",
+        "com.baize.game-base"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

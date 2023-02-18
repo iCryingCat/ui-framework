@@ -1,0 +1,12 @@
+{
+	"name": "com.baize.ui-framework",
+	"displayName": "ui-framework",
+	"description": "u2 framework",
+	"version": "1.0.1",
+	"unity": "2021.3",
+	"author": "baize",
+	"keywords": [
+		"com.baize.ui-framework",
+		"ui-framework"
+	]
+}
